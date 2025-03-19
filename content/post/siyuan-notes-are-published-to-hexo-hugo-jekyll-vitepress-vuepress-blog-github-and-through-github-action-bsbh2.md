@@ -204,9 +204,9 @@ isCJKLanguage: true
         > 如果你还没有绑定 GitHub 帐号，请根据弹窗提示绑定 GitHub 帐号；
         >
 
-        ![输入图片说明](assets/net-img-110626_76a3ab9b_8249553-20240219134422-lpenit9.png "12.png")
+        ![输入图片说明](https://raw.githubusercontent.com/szhiku/hugoNext/main/content/pic/20250320040247376.png "12.png")
     2. 添加镜像；  
-        ​![输入图片说明](assets/net-img-111013_4806d22e_8249553-20240219134422-xsfb6n3.png "13.png")
+        ​![输入图片说明](https://raw.githubusercontent.com/szhiku/hugoNext/main/content/pic/20250320040252524.png "13.png")
 
         1. 在「镜像方向」中选择 Pull 方向；
         2. 在「镜像仓库」下拉列表中选择需要镜像的仓库；
